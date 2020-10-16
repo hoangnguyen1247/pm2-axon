@@ -1,5 +1,5 @@
 {
-  "name": "pm2-axon",
+  "name": "pm2t-axon",
   "description": "High-level messaging & socket patterns implemented in pure js",
   "version": "4.0.0",
   "author": {
